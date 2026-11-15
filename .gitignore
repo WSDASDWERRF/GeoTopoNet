@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.idea/
+.vscode/
+
+# 权重、数据与训练产物一律不入库
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.tif
+*.tiff
+*.png
+runs/
+data/

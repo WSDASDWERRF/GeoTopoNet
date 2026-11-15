@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+scikit-image>=0.20
+Pillow>=9.5
+tifffile>=2023.1
+torch>=2.3
+torchvision>=0.18

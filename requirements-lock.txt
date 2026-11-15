@@ -1,0 +1,9 @@
+# 本机实测通过的环境（2026-11-15，Windows / Python 3.11，非强制约束）
+numpy==2.2.6
+scipy==1.15.3
+scikit-image==0.25.2
+Pillow==11.1.0
+tifffile==2025.2.18
+torch==2.10.0+cu128
+torchvision==0.25.0+cu128
+pytest==8.4.1
